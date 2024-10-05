@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/printkaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="printkaushik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaushik sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaushik-sharma-a13396328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik sharma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25487954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25487954" height="30" width="40" /></a>
 <a href="https://instagram.com/meetkaushiksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meetkaushiksharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kaushiksharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaushiksharma" height="30" width="40" /></a>
