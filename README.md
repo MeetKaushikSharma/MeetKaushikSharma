@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **WEB DEV AND DSA**
 
-- 💬 Ask me about **C and C++**
+- 💬 Lets Code **Together** Something **Unique**
 
 - 📫 How to reach me **kaushiksharmabusiness@gmail.com**
 
-- ⚡ Fun fact **I am also a Graphic Designer**
+- ⚡ Fun fact **I am also a Graphic Designer/Video Editor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
