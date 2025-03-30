@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/printkaushik" target="blank"><img src="https://img.shields.io/twitter/follow/printkaushik?logo=twitter&style=for-the-badge" alt="printkaushik" /></a> </p>
 
-- 🌱 I’m currently learning **C++ with DSA**
+- 🌱 I’m currently learning **WEB DEV AND DSA**
 
 - 💬 Ask me about **C and C++**
 
